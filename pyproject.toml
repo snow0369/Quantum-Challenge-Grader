@@ -30,6 +30,7 @@ dependencies = [
     # Dependencies our challenges use. You can remove these
     # when removing old challenges if they're no longer used.
     "moocore",
+    "rustworkx",
 ]
 
 [project.urls]
